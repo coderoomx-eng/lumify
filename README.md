@@ -9,6 +9,7 @@ Production-oriented starter: Next.js App Router, TypeScript, Tailwind CSS v4, Sh
 
 ## Setup
 
+
 1. Copy environment variables:
 
    ```bash
